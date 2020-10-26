@@ -4,4 +4,6 @@
 - 🤔 I’m looking to help smart developers make interesting products
 - 😄 Pronouns: he/him
 
-<img align="left" alt="HBiede's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=HBiede&show_icons=true&hide_border=true&count_private=true" />
+<a href="https://hbiede.com">
+  <img align="left" alt="HBiede's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=HBiede&show_icons=true&hide_border=true&count_private=true" />
+</a>
