@@ -5,5 +5,5 @@
 - 😄 Pronouns: he/him
 
 <a href="https://hbiede.com">
-  <img align="left" alt="HBiede's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=HBiede&show_icons=true&hide_border=true&count_private=true" />
+  <img align="left" alt="HBiede's Github Stats" src="https://github-readme-stats.vercel.app/api?username=HBiede&show_icons=true&hide_border=true&count_private=true" />
 </a>
