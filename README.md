@@ -5,6 +5,6 @@
 
 <a href="https://hbiede.com">
   <img align="left" alt="HBiede's Github Stats" src="https://github-readme-stats.vercel.app/api?username=HBiede&show_icons=true&hide_border=true&count_private=true" />
+  <br />
   <img align="right" alt="HBiede's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hbiede&count_private=true&layout=compact&langs_count=6&hide_border=true" />
-
 </a>
