@@ -6,7 +6,7 @@
 ---
 
 <picture>
-  <img align="left" alt="JavaScript" width="26px" src="https://cdn.simpleicons.org/TypeScript/3178c6" />
+  <img align="left" alt="TypeScript" width="26px" src="https://cdn.simpleicons.org/TypeScript/3178c6" />
 </picture>
 <picture>
   <img align="left" alt="JavaScript" width="26px" src="https://cdn.simpleicons.org/JavaScript/f7df1e" />
