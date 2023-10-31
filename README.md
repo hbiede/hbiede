@@ -46,7 +46,27 @@
 ---
 
 <a href="https://hbiede.com">
-  <img alt="HBiede's Github Stats" src="https://github-readme-stats.vercel.app/api?username=HBiede&show_icons=true&hide_border=true&count_private=true" />
+  <picture>
+    <source
+      srcset="https://github-readme-stats-phi-topaz-74.vercel.app/api?username=HBiede&show_icons=true&hide_border=true&count_private=true&show=reviews&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats-phi-topaz-74.vercel.app/api?username=HBiede&show_icons=true&hide_border=true&count_private=true&show=reviews"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats-phi-topaz-74.vercel.app/api?username=HBiede&show_icons=true&hide_border=true&count_private=true&show=reviews" />
+  </picture>
   <br />
-  <img alt="HBiede's Github Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hbiede&count_private=true&langs_count=10&layout=compact&hide_border=true&hide=HTML,CSS" />
+  <picture>
+    <source
+      srcset="https://github-readme-stats-phi-topaz-74.vercel.app/api/top-langs/?username=hbiede&count_private=true&langs_count=10&layout=compact&hide_border=true&hide=HTML,CSS&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats-phi-topaz-74.vercel.app/api/top-langs/?username=hbiede&count_private=true&langs_count=10&layout=compact&hide_border=true&hide=HTML,CSS"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats-phi-topaz-74.vercel.app/api/top-langs/?username=hbiede&count_private=true&langs_count=10&layout=compact&hide_border=true&hide=HTML,CSS" />
+  </picture>
 </a>
