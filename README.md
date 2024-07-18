@@ -1,10 +1,13 @@
-- 🔭 I’m currently working on a React Native development team
+- 🔭 I’m currently working on a UIKit mobile development team
 - 🌱 I’m currently learning everything I can about various programming languages and frameworks
 - 🤔 I’m looking to help smart developers make interesting products
 - 😄 Pronouns: he/him
 
 ---
 
+<picture>
+  <img align="left" alt="Swift" width="26px" src="https://cdn.simpleicons.org/Swift/f05138" />
+</picture>
 <picture>
   <img align="left" alt="TypeScript" width="26px" src="https://cdn.simpleicons.org/TypeScript/3178c6" />
 </picture>
@@ -13,9 +16,6 @@
 </picture>
 <picture>
   <img align="left" alt="React/React Native" width="26px" src="https://cdn.simpleicons.org/React/61dafb" />
-</picture>
-<picture>
-  <img align="left" alt="Swift" width="26px" src="https://cdn.simpleicons.org/Swift/f05138" />
 </picture>
 <picture>
   <img align="left" alt="Ruby" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png" />
