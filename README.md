@@ -45,8 +45,8 @@
 
 ---
 
-<a href="https://hbiede.com">
-  <picture>
+<a style="display:flex;flex-direction:row-wrap;align-items:center;" href="https://hbiede.com">
+  <picture style="margin-right:8px">
     <source
       srcset="https://github-readme-stats-phi-topaz-74.vercel.app/api?username=HBiede&show_icons=true&hide_border=true&count_private=true&show=reviews&theme=dark"
       media="(prefers-color-scheme: dark)"
@@ -57,7 +57,6 @@
     />
     <img src="https://github-readme-stats-phi-topaz-74.vercel.app/api?username=HBiede&show_icons=true&hide_border=true&count_private=true&show=reviews" />
   </picture>
-  <br />
   <picture>
     <source
       srcset="https://github-readme-stats-phi-topaz-74.vercel.app/api/top-langs/?username=hbiede&count_private=true&langs_count=10&layout=compact&hide_border=true&hide=HTML,CSS&theme=dark"
